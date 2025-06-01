@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color:#081b31;
+    color:fff;
+    height: 5rem;
+    line-height: 5rem;
+}
+.choice{
+    height: 100%;
+    width: 100%;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
